@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir /home/ubuntu/order_service
 cp -r /home/ubuntu/order /home/ubuntu/order_service
 cd /home/ubuntu/order_service/target/
