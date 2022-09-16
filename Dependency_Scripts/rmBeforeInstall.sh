@@ -1,3 +1,4 @@
+#!/bin/bash
 cd /home/ubuntu/
-#sudo rm -rf home/ubuntu/order_service/
-echo "hello" >> hello.txt
+echo "I can "write" without double quotes" >> file.txt
+
