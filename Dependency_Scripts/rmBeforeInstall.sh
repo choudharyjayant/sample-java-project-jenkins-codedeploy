@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /home/ubuntu/
-sudo rm -rf /order_service/
+sudo rm -rf home/ubuntu/order_service/
