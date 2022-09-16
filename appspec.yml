@@ -3,7 +3,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu/order_service
+    destination: /home/ubuntu/order
 
 hooks:
   BeforeInstall:
