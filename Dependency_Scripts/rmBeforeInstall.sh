@@ -1,3 +1,3 @@
 #! /bin/bash
-sudo rm -rf  /home/ubuntu//var/lib/jenkins/workspace/jenkins-gradle/*
+rm -rf  /home/ubuntu//var/lib/jenkins/workspace/jenkins-gradle/*
 echo "I can "write" without double quotes" >> file
