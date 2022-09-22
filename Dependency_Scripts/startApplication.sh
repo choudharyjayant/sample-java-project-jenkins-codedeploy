@@ -1,2 +1,2 @@
 #!/bin/bash
-nohup java -jar /home/ubuntu/order/target/jb-hello-world-maven-0.2.0.jar  > /dev/null 2>&1 &
+nohup java -jar /home/ubuntu/var/lib/jenkins/workspace/jenkins-gradle/gradle/wrapper/gradle-wrapper.jar  > /dev/null 2>&1 &
