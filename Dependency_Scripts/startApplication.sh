@@ -1,2 +1,3 @@
 #!/bin/bash
-nohup java -jar /home/ubuntu/var/lib/jenkins/workspace/jenkins-gradle/gradle/wrapper/gradle-wrapper.jar  > /dev/null 2>&1 &
+cd /home/ubnutu/order/
+nohup java -jar build/libs/*.jar  > /dev/null 2>&1 &
