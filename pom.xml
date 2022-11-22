@@ -13,7 +13,10 @@
            <maven.compiler.source>1.6</maven.compiler.source>
            <maven.compiler.target>1.6</maven.compiler.target>
      </properties>
-
+     <properties>
+           <sonar.organization>jenkins-prefav</sonar.organization>
+           <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
       <dependencies>
            <dependency>
                <groupId>joda-time</groupId>
